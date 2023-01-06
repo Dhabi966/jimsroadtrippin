@@ -1,4 +1,4 @@
-# Road Trippen
+# Road Trippin
 
 A full stack app that allows you to explore destinations, interact with other users, and share experiences of the trips that you take. 
 
